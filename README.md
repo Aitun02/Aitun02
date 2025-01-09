@@ -1,8 +1,3 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
-
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
