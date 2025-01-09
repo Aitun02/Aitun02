@@ -6,7 +6,10 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
 
 ## 👨‍💻 Information Technology Projects
 - **osTicket**: Help Desk Ticketing System
-  - [Prerequisites and Installation](#)
+  - # 👨‍💻 Information Technology Projects
+
+  - [osTicket: Prerequisites and Installation](https://github.com/Aitun02/osTicket-Prerequisites)
+
   - [Post-Installation Configuration](#)
   - [Ticket Lifecycle Examples](#)
 - **Microsoft Azure**
@@ -19,11 +22,6 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
 
 ---
 
-## 🚀 Popular Repositories
-- [osTicket Prerequisites](#)
-- [Post-Install Configuration](#)
-- [Ticket Lifecycle Examples](#)
-- [Azure Network Protocols](#)
 
 
 
