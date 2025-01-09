@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/4HbnwDt.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Azure Virtual Machine successfully created with Windows 10 (4 vCPUs), configured with a username and secure password. IIS has been installed and configured with CGI enabled, laying the foundation for the osTicket installation process. The environment is now fully prepared for the next steps, including installing necessary software and setting up the osTicket application
