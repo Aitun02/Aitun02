@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
 
 ---
 
-## 👨‍💻 Information Technology Projects
-- **osTicket**: Help Desk Ticketing System
+
   - # 👨‍💻 Information Technology Projects
 
   - [osTicket: Prerequisites and Installation](https://github.com/Aitun02/osTicket-Prerequisites)
