@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
 
   - [osTicket: Prerequisites and Installation](https://github.com/Aitun02/osTicket-Prerequisites)
 
-  - [Post-Installation Configuration](#)
+  - [osTicket: Post-Installation Configuration](https://github.com/Aitun02/osTicket-Post-Installation)
+
   - [Ticket Lifecycle Examples](#)
 - **Microsoft Azure**
   - Configuring On-Premises Active Directory within Azure VMs
