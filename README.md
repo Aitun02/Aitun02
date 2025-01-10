@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
 
   -  [osTicket: Ticket Lifecycle Examples](https://github.com/Aitun02/osTicket-Ticket-Lifecycle-Examples)
 
-- **Microsoft Azure**
+ **Microsoft Azure**
  -  [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Aitun02/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/tree/main)
 
 
