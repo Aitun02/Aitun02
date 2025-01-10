@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am an IT professional and technology enthusiast 
   -  [osTicket: Ticket Lifecycle Examples](https://github.com/Aitun02/osTicket-Ticket-Lifecycle-Examples)
 
 - **Microsoft Azure**
-  - Configuring On-Premises Active Directory within Azure VMs
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
+ -  [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/Aitun02/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/tree/main)
+
 
 ---
 
